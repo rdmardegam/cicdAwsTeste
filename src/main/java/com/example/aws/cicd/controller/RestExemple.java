@@ -10,6 +10,6 @@ public class RestExemple {
 	@GetMapping("/test")
 	public String exemplo () {
 		System.out.println("TESTE");
-		return "ESTOU VIVO";
+		return "ESTOU VIVO \\O/";
 	}
 }

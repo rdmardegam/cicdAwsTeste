@@ -11,7 +11,7 @@
 	<groupId>com.example.aws</groupId>
 	<artifactId>cicd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cicd</name>
+	<name>CicdAwsTeste</name>
 	
 	<description>Esteira Teste CiCD AWS</description>
 	

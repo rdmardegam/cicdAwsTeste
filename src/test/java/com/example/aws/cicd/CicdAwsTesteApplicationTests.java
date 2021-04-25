@@ -8,6 +8,6 @@ class CicdAwsTesteApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+	} 
 
 }
